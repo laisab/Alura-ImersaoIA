@@ -21,9 +21,9 @@ Dev Team
 EXERCÍCIOS
 
 1.	Complete com o nome correto segundo o conceito explicado:
-a) Responsável por gerenciar o Backlog do Produto: __________
+<br>a) Responsável por gerenciar o Backlog do Produto: __________</br>
 b) Responsável por garantir que as regras de Scrum estejam sendo cumpridas e que seus valores estejam sendo seguidos: __________
-c) Responsável por desenvolver incrementos do produto: __________
+<br>c) Responsável por desenvolver incrementos do produto: __________</br>
 
 
 LISTA DE OUTROS TERMOS
