@@ -46,4 +46,10 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221pVwBNO5Per2tS4
 
 ![D2-1](https://github.com/laisab/Alura-ImersaoIA/assets/86136694/30806915-084f-458f-915f-421f240cb79c)
 
-## Aula 3: 
+## Aula 3: Explorando os parâmetros do Google AI Studio
+
+**Desafio 1**: _Criar seu próprio áudio e realizar um prompt para análise pelo Google AI Studio._
+
+![D1](https://github.com/laisab/Alura-ImersaoIA/assets/86136694/1411216a-fb00-4258-af3f-c386dc783c87)
+
+**Desafio 2**: _Pesquise como colocar a imagem do Google AI Studio dentro do código de Pyhton no Google Colab._
