@@ -57,3 +57,5 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221pVwBNO5Per2tS4
 ![D2](https://github.com/laisab/Alura-ImersaoIA/assets/86136694/ac9b8d42-1d67-407b-8d3a-bccaef5fef44)
 
 **Desafio 3**: _Pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab._
+
+![D3](https://github.com/laisab/Alura-ImersaoIA/assets/86136694/1d4bfbcd-6a19-434a-8079-afc5ddd729e2)
