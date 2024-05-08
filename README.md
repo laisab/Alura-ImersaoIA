@@ -53,3 +53,7 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221pVwBNO5Per2tS4
 ![D1](https://github.com/laisab/Alura-ImersaoIA/assets/86136694/1411216a-fb00-4258-af3f-c386dc783c87)
 
 **Desafio 2**: _Pesquise como colocar a imagem do Google AI Studio dentro do código de Pyhton no Google Colab._
+
+![D2](https://github.com/laisab/Alura-ImersaoIA/assets/86136694/ac9b8d42-1d67-407b-8d3a-bccaef5fef44)
+
+**Desafio 3**: _Pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab._
