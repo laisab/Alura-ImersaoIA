@@ -60,6 +60,8 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221pVwBNO5Per2tS4
 
 ![D3](https://github.com/laisab/Alura-ImersaoIA/assets/86136694/1d4bfbcd-6a19-434a-8079-afc5ddd729e2)
 
-## Aula 4: 
+## Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
 
-**Desafio 1**:
+**Desafio 1**: Desenvolva um Projeto Relacionado à Aula 4 e/ou Aula 5 da Imersão IA 2ª Edição
+
+https://github.com/laisab/Projeto_Imersao_Alura
