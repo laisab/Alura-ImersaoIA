@@ -68,4 +68,6 @@ Início do projeto
 
 ## Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
 
+**Desafio**: _Continuação do projeto_
+
 https://github.com/laisab/Projeto_Imersao_Alura
