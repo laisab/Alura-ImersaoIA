@@ -64,4 +64,8 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221pVwBNO5Per2tS4
 
 **Desafio 1**: Desenvolva um Projeto Relacionado à Aula 4 e/ou Aula 5 da Imersão IA 2ª Edição
 
+Início do projeto
+
+## Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
+
 https://github.com/laisab/Projeto_Imersao_Alura
